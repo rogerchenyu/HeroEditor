@@ -1,0 +1,5 @@
+node_modules/
+app/*.js
+app/*.log
+app/*.map
+typings/
